@@ -8,7 +8,6 @@ I’ve led teams, setting up onboarding for new hires, mentoring juniors, and wr
 * 🌍 I'm based in Warsaw, Poland
 * 💻 See my portfolio at [GitHub](https://github.com/PavelRodygin)
 * ✉️ You can contact me at [RodyginPablo@gmail.com](mailto:RodyginPablo@gmail.com)
-* 📱 Phone: +48790315582
 * 🤝 I'm open to collaborating on mobile games, Unity projects, and any other possibilities.
 
 ### Skills

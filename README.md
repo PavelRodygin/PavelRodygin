@@ -1,15 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel Rodygin
 =======================================================================================================================================
-
 Ambitious Unity Developer with over 4 years of hands-on experience in mobile apps and games, including 3 years on commercial projects with over 1 million downloads. I focus on clean, scalable code with C# and Unity, handling cross-platform ports to Android, PC, Nintendo Switch, and PS4. I’ve boosted engagement with smart optimizations, better performance, and quick bug fixes through deep analysis.
-
 I’ve led teams, setting up onboarding for new hires, mentoring juniors, and writing clear tech docs to keep things smooth. As Head of Development, I tweaked company processes and improved teamwork between devs and testers. I’m a solid team player who adapts fast and keeps up with trends, sharing knowledge to help the team and company grow.
-
 * 🌍 I'm based in Warsaw, Poland
 * 💻 See my portfolio at [GitHub](https://github.com/PavelRodygin)
 * ✉️ You can contact me at [RodyginPablo@gmail.com](mailto:RodyginPablo@gmail.com)
 * 🤝 I'm open to collaborating on mobile games, Unity projects, and any other possibilities.
-
 ### Skills
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/unity/000000" width="36" height="36" alt="Unity" /></a>
@@ -26,8 +22,23 @@ I’ve led teams, setting up onboarding for new hires, mentoring juniors, and wr
 <a href="https://cursor.sh/" target="_blank" rel="noreferrer"><img src="https://cursor.sh/brand/icon.svg" width="36" height="36" alt="Cursor" /></a>
 </p>
 
+### Projects
+Here are some of my key projects showcasing my Unity development skills, including mobile games and Minecraft addons. Each includes my contributions like architecture optimization, SDK integrations, and performance improvements.
+
+- **Valhalla Path** 🚀  
+  Mobile runner game where Viking Olaf navigates a mystical labyrinth, fights foes, and uses boosters to reach Valhalla, inspired by Scandinavian myths. Developed scalable architecture, optimized performance, and handled publication on Google Play. (Game removed from store, but gameplay showcase available.)  
+  [View Gameplay](https://developmate.pro/valhallapath)
+
+- **One Block Maps Minecraft 2025** 🛡️  
+  Minecraft addon app with survival maps like 'one block skyblock'. Improved UI/UX, integrated ads and analytics SDKs (e.g., UnityAds, Firebase), and enhanced scalability. Over 5M downloads and 3.8 rating.  
+  [Google Play](https://play.google.com/store/apps/details?id=com.mpcenewmods.oneblockskyblocksurvv2&hl=en&gl=us)
+
+- **Actual Guns 3D Mod** 🔫  
+  Minecraft mod adding realistic 3D weapons for enhanced army and survival gameplay. Focused on user-friendly interfaces, performance optimization, and SDK integrations. (Note: App may be unavailable in some regions or removed.)  
+  [Google Play](https://play.google.com/store/apps/details?id=com.ArmyInc.ActualGuns3DMod)
+
+For more details, check my repositories or contact me!
+
 ### Socials
 <p align="left"> <a href="https://www.github.com/PavelRodygin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pavel-rodygin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://t.me/pablo_rodygin" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram" /></a></p>
-
-
 ![](https://komarev.com/ghpvc/?username=PavelRodygin&style=for-the-badge)

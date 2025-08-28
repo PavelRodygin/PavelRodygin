@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel Rodygin
 =======================================================================================================================================
-Ambitious Unity Developer with over 4 years of hands-on experience in mobile apps and games, including 3 years on commercial projects with over 1 million downloads. I focus on clean, scalable code with C# and Unity, handling cross-platform ports to Android, PC, Nintendo Switch, and PS4. I’ve boosted engagement with smart optimizations, better performance, and quick bug fixes through deep analysis.
+Ambitious Unity Developer with over 4 years of hands-on experience in mobile apps and games, including 3 years on commercial projects with over 5 million downloads. I focus on clean, scalable code with C# and Unity, handling cross-platform ports to Android, PC, Nintendo Switch, and PS4. I’ve boosted engagement with smart optimizations, better performance, and quick bug fixes through deep analysis.
 I’ve led teams, setting up onboarding for new hires, mentoring juniors, and writing clear tech docs to keep things smooth. As Head of Development, I tweaked company processes and improved teamwork between devs and testers. I’m a solid team player who adapts fast and keeps up with trends, sharing knowledge to help the team and company grow.
 * 🌍 I'm based in Warsaw, Poland
 * 💻 See my portfolio at [LinkedIn](https://www.linkedin.com/in/pavel-rodygin)

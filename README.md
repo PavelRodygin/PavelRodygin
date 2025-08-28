@@ -25,15 +25,15 @@ I’ve led teams, setting up onboarding for new hires, mentoring juniors, and wr
 ### Projects
 Here are some of my key projects showcasing my Unity development skills, including mobile games and Minecraft addons. Each includes my contributions like architecture optimization, SDK integrations, and performance improvements.
 
-- **Valhalla Path** 🚀  
+- **Valhalla Path**   
   Mobile runner game where Viking Olaf navigates a mystical labyrinth, fights foes, and uses boosters to reach Valhalla, inspired by Scandinavian myths. Developed scalable architecture, optimized performance, and handled publication on Google Play. (Game removed from store, but gameplay showcase available.)  
   [View Gameplay](https://developmate.pro/valhallapath)
 
 - **One Block Maps Minecraft 2025** 🛡️  
-  Minecraft addon app with survival maps like 'one block skyblock'. Improved UI/UX, integrated ads and analytics SDKs (e.g., UnityAds, Firebase), and enhanced scalability. Over 5M downloads and 3.8 rating.  
+  Minecraft addon app with survival maps like 'one block skyblock'. Improved UI/UX, integrated ads and analytics SDKs (Admob, AppLovin, UnityAds, AppMetrica), and enhanced scalability. Over 5M downloads and 4.0 rating.  
   [Google Play](https://play.google.com/store/apps/details?id=com.mpcenewmods.oneblockskyblocksurvv2&hl=en&gl=us)
 
-- **Actual Guns 3D Mod** 🔫  
+- **Actual Guns 3D Mod** 🛡️  
   Minecraft mod adding realistic 3D weapons for enhanced army and survival gameplay. Focused on user-friendly interfaces, performance optimization, and SDK integrations. (Note: App may be unavailable in some regions or removed.)  
   [Google Play](https://play.google.com/store/apps/details?id=com.ArmyInc.ActualGuns3DMod)
 

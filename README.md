@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ambitious Unity Developer with over 4 years of hands-on experience in mobile apps and games, including 3 years on commercial projects with over 1 million downloads. I focus on clean, scalable code with C# and Unity, handling cross-platform ports to Android, PC, Nintendo Switch, and PS4. I’ve boosted engagement with smart optimizations, better performance, and quick bug fixes through deep analysis.
 I’ve led teams, setting up onboarding for new hires, mentoring juniors, and writing clear tech docs to keep things smooth. As Head of Development, I tweaked company processes and improved teamwork between devs and testers. I’m a solid team player who adapts fast and keeps up with trends, sharing knowledge to help the team and company grow.
 * 🌍 I'm based in Warsaw, Poland
-* 💻 See my portfolio at [GitHub](https://github.com/PavelRodygin)
+* 💻 See my portfolio at [LinkedIn](https://www.linkedin.com/in/pavel-rodygin)
+* 📄 View my resume at [My Resume](https://docs.google.com/document/d/1bRBEm7o-Sh4t0CP76oQashDS_YL69raQOfUPMtbY6Nw/edit?usp=sharing)
 * ✉️ You can contact me at [RodyginPablo@gmail.com](mailto:RodyginPablo@gmail.com)
 * 🤝 I'm open to collaborating on mobile games, Unity projects, and any other possibilities.
 ### Skills
@@ -33,12 +34,9 @@ Here are some of my key projects showcasing my Unity development skills, includi
   Minecraft addon app with survival maps like 'one block skyblock'. Improved UI/UX, integrated ads and analytics SDKs (Admob, AppLovin, UnityAds, AppMetrica), and enhanced scalability. Over 5M downloads and 4.0 rating.  
   [Google Play](https://play.google.com/store/apps/details?id=com.mpcenewmods.oneblockskyblocksurvv2&hl=en&gl=us)
 
-- **Actual Guns 3D Mod** 🛡️  
-  Minecraft mod adding realistic 3D weapons for enhanced army and survival gameplay. Focused on user-friendly interfaces, performance optimization, and SDK integrations. (Note: App may be unavailable in some regions or removed.)  
-  [Google Play](https://play.google.com/store/apps/details?id=com.ArmyInc.ActualGuns3DMod)
-
 For more details, check my repositories or contact me!
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/PavelRodygin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pavel-rodygin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://t.me/pablo_rodygin" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram" /></a></p>
-![](https://komarev.com/ghpvc/?username=PavelRodygin&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=silent97vvaaavava&style=for-the-badge)

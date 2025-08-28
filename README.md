@@ -23,7 +23,7 @@ I’ve led teams, setting up onboarding for new hires, mentoring juniors, and wr
 <a href="https://cursor.sh/" target="_blank" rel="noreferrer"><img src="https://cursor.sh/brand/icon.svg" width="36" height="36" alt="Cursor" /></a>
 </p>
 
-### Projects
+### Non-NDA Projects
 Here are some of my key projects showcasing my Unity development skills, including mobile games and Minecraft addons. Each includes my contributions like architecture optimization, SDK integrations, and performance improvements.
 
 - **Valhalla Path**   

@@ -35,7 +35,7 @@ Here are some of my key projects showcasing my Unity development skills, includi
   [Google Play](https://play.google.com/store/apps/details?id=com.mpcenewmods.oneblockskyblocksurvv2&hl=en&gl=us)
 
 - **Problems in Head** 🛡️                                                                                                
-  Visual novel prototype by BluberryBlastTeam. Built engaging gameplay with puzzles and contributed to the core story mechanics using C# and Unity. Available on itch.io with Patreon support.
+  Visual novel prototype by BluberryBlastTeam. Built engaging gameplay with puzzles and contributed to the core story mechanics using C# and Unity. Available on itch.io with Patreon support.                           
   [Play on Itch.io](https://blueberry-blast-team.itch.io/problems-in-head)              
 
 For more details, check my repositories or contact me!

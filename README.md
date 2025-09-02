@@ -34,9 +34,9 @@ Here are some of my key projects showcasing my Unity development skills, includi
   Minecraft addon app with survival maps like 'one block skyblock'. Improved UI/UX, integrated ads and analytics SDKs (Admob, AppLovin, UnityAds, AppMetrica), and enhanced scalability. Over 5M downloads and 4.0 rating.  
   [Google Play](https://play.google.com/store/apps/details?id=com.mpcenewmods.oneblockskyblocksurvv2&hl=en&gl=us)
 
-- **Problems in Head** 🛡️
-  Puzzle game with unique mechanics built in Unity. Focused on clean code and smooth gameplay.
-  [Play on Itch.io](https://blueberry-blast-team.itch.io/problems-in-head)
+- **Problems in Head** 🛡️                                                                                                
+  Visual novel prototype by BluberryBlastTeam. Built engaging gameplay with puzzles and contributed to the core story mechanics using C# and Unity. Available on itch.io with Patreon support.
+  [Play on Itch.io](https://blueberry-blast-team.itch.io/problems-in-head)              
 
 For more details, check my repositories or contact me!
 

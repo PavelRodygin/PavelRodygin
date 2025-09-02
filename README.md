@@ -7,6 +7,13 @@ I’ve led teams, setting up onboarding for new hires, mentoring juniors, and wr
 * 📄 View my resume at [My Resume](https://docs.google.com/document/d/1bRBEm7o-Sh4t0CP76oQashDS_YL69raQOfUPMtbY6Nw/edit?usp=sharing)
 * ✉️ You can contact me at [RodyginPablo@gmail.com](mailto:RodyginPablo@gmail.com)
 * 🤝 I'm open to collaborating on mobile games, Unity projects, and any other possibilities.
+### Core Dev Skills
+I specialize in building robust, scalable game architectures using modern practices:
+- **Architecture**: MVC, MVP, MVVM, Dependency Injection (Zenject, VContainer), SOLID principles
+- **Programming**: C#, async programming with UniTask, reactive programming with UniRx/R3
+- **Optimization**: Performance tuning, memory management, cross-platform compatibility
+Check out my [TechnicalSample repo](https://github.com/PavelRodygin/TechnicalSample) for examples of my clean code and best practices.
+
 ### Skills
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/unity/000000" width="36" height="36" alt="Unity" /></a>

@@ -43,7 +43,11 @@ Here are some of my key projects showcasing my Unity development skills, includi
 
 - **Problems in Head** 🛡️                                                                                                
   Visual novel prototype by BluberryBlastTeam. Built engaging gameplay with puzzles and contributed to the core story mechanics using C# and Unity. Available on itch.io with Patreon support.                           
-  [Play on Itch.io](https://blueberry-blast-team.itch.io/problems-in-head)              
+  [Play on Itch.io](https://blueberry-blast-team.itch.io/problems-in-head)
+
+- **BladeCarRunnerVR** 🛡️                                                                                                           
+  Developed an immersive VR experience inspired by "Blade Runner" and "Blade Runner 2049." Built VR mechanics for an interactive vehicle in a dystopian Las Vegas desert, optimized performance, and integrated interactive elements. Collaborated with artists to recreate iconic assets and enhance immersion.
+  [View Gameplay](https://www.youtube.com/watch?v=iahhvlL82R0&ab_channel=AnastasiyaLesina)
 
 For more details, check my repositories or contact me!
 

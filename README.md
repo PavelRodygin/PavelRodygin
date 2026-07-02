@@ -4,7 +4,7 @@ Ambitious Unity Developer with over 4 years of hands-on experience in software e
 I’ve led teams, setting up onboarding for new hires, mentoring juniors, and writing clear tech docs to keep things smooth. As Head of Development, I tweaked company processes and improved teamwork between devs and testers. I’m a solid team player who adapts fast and keeps up with trends, sharing knowledge to help the team and company grow.
 * 🌍 I'm based in Warsaw, Poland
 * 💻 See my portfolio at [LinkedIn](https://www.linkedin.com/in/pavel-rodygin)
-* 📄 View my CV at [My Resume](https://docs.google.com/document/d/1bRBEm7o-Sh4t0CP76oQashDS_YL69raQOfUPMtbY6Nw/edit?usp=sharing)
+* 📄 View my CV at [My Resume](https://docs.google.com/document/d/1hSMIQsvKwsm2u1FGy_MXomTrcSRvrkRu/edit?usp=sharing&ouid=108265249188744322340&rtpof=true&sd=true)
 * ✉️ You can contact me at [RodyginPablo@gmail.com](mailto:RodyginPablo@gmail.com)
 * 🤝 I'm open to collaborating on mobile games, Unity projects, and any other possibilities.
 ### Core Dev Skills
